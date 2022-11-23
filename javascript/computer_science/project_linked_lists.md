@@ -31,7 +31,7 @@ For a more thorough explanation, use these resources:
 
 1.  [Linked Lists in Plain English](https://www.youtube.com/watch?v=oiW79L8VYXk)
 2.  [What's a Linked List, Anyway?](https://dev.to/vaidehijoshi/whats-a-linked-list-anyway)
-3.  [A more verbose explanation with plenty of diagrams](https://web.archive.org/web/20200217010131/http://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)
+3.  [A more verbose explanation with plenty of diagrams](https://web.archive.org/web/20200217010131/http://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html) // This link is broken, unable to find the webpage. Original page and web archive have no data about it.
 
 ### Assignment
 
